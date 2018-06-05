@@ -1,0 +1,4 @@
+Notes!
+
+1. When you all an extension to a project with npm, make sure to add --save
+2. 
